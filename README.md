@@ -41,5 +41,3 @@ Program akan secara otomatis:
 
 * **Data TPS**: `hasil_multi_tps.csv`
 * **Gambar**: `img_<kode_wilayah>/`
-
-```
