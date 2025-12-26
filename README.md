@@ -5,9 +5,9 @@ A web scraper to collect and download images from Kawal Pemilu 2024 website for 
 ## Cara Menggunakan
 
 ### 1. Persiapan
-````
+
 Pastikan **Python 3** dan **Firefox** sudah terpasang di sistem.
-```
+````
 pip install selenium beautifulsoup4 requests webdriver-manager
 ````
 
